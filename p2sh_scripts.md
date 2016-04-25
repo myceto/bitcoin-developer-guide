@@ -1,1 +1,1 @@
-### P2SH 脚本 | P2SH Scripts
+### P2SH 指令碼 | P2SH Scripts

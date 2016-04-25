@@ -1,1 +1,1 @@
-### 签名哈希类型 | Signature Hash Types
+### 簽名雜湊類型 | Signature Hash Types

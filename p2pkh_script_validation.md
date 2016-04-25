@@ -1,1 +1,1 @@
-### P2PKH 脚本验证 | P2PKH Script Validation
+### P2PKH 指令碼驗證 | P2PKH Script Validation
